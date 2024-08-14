@@ -33,8 +33,8 @@ To play the game, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/CasinoNumberGuessingGame.git
-   cd CasinoNumberGuessingGame
+   git clone https://github.com/neo0038/Casino-Number-Guessing-Game.git
+   cd Casino-Number-Guessing-Game
 Compile the Code:
 
 Use a C++ compiler like g++ to compile the code:
